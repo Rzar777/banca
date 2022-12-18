@@ -24,3 +24,4 @@ public class Cliente  implements Serializable{
                 + clave_cliente + "]";
     }
 }
+// Hola mundo
